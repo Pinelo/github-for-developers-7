@@ -9,3 +9,5 @@
 **Favorite Food:** Spaghetti
 
 **Hobby:** Code
+
+**Favorite Color:** Red
