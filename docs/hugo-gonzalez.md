@@ -11,3 +11,5 @@
 **Hobby:** Code
 
 **Favorite Color:** Red
+
+**Current Location:** Bed
